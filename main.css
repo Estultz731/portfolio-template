@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+.write {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.left {
+  position: absolute;
+  top: 8px;
+  left: 30px;
+  font-family: arial;
+  color: white;
+}
+
+.left:hover {
+  font-family: arial;
+  color: #9387b3;
+  text-decoration: none;
+}
+
+.home {
+  position: absolute;
+  top: 8px;
+  right: 300px;
+  font-family: arial;
+  color: white;
+}
+
+.home:hover {
+  font-family: arial;
+  color: #9387b3;
+  text-decoration: none;
+}
+
+.about {
+  position: absolute;
+  top: 8px;
+  right: 240px;
+  font-family: arial;
+  color: white;
+}
+
+.about:hover {
+  font-family: arial;
+  color: #9387b3;
+  text-decoration: none;
+}
+
+.services {
+  position: absolute;
+  top: 8px;
+  right: 170px;
+  font-family: arial;
+  color: white;
+}
+
+.services:hover {
+  font-family: arial;
+  color: #9387b3;
+  text-decoration: none;
+}
+
+.projects {
+  position: absolute;
+  top: 8px;
+  right: 100px;
+  font-family: arial;
+  color: white;
+}
+
+.projects:hover {
+  font-family: arial;
+  color: #9387b3;
+  text-decoration: none;
+}
+
+.contact {
+  position: absolute;
+  top: 8px;
+  right: 30px;
+  font-family: arial;
+  color: white;
+}
+
+.contact:hover {
+  font-family: arial;
+  color: #9387b3;
+  text-decoration: none;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+  font-size: 80px;
+  color: black;
+}
+
+.fa-paper-plane {
+  color: #6c469e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.email {
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.emailDesign {
+  text-align: center;
+  color: #a0a0b4;
+}
+
+.fa-desktop {
+  color: #6c469e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.web {
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.webDesign {
+  text-align: center;
+  color: #a0a0b4;
+}
+
+.fa-mobile-alt {
+  color: #6c469e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.mobile {
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.mobileDesign {
+  text-align: center;
+  color: #a0a0b4;
+}
+
+.fa-search {
+  color: #6c469e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.research {
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.researchDesign {
+  text-align: center;
+  color: #a0a0b4;
+}
